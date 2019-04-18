@@ -42,8 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calculadora.cs" />
+    <Compile Include="Cuadrado.cs" />
+    <Compile Include="Cubo.cs" />
+    <Compile Include="ICalcular.cs" />
+    <Compile Include="PerroFactorial.cs" />
+    <Compile Include="PersonaQueSuma5.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RobotFibonacci.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
