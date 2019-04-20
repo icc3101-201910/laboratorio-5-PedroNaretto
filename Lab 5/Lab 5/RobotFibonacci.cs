@@ -23,7 +23,7 @@ namespace Lab_5
             }
             else
             {
-                for (int i = 2; i <= numero; i++)
+                for (int i = 2; i <= numero && i <= 46; i++)
                 {
                     n = x0 + x1;
                     x0 = x1;

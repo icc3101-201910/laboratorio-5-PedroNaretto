@@ -12,7 +12,7 @@ namespace Lab_5
         public int Calcular(int numero)
         {
             int n = 1;
-            for(int i = 2; i <= numero; i++)
+            for(int i = 2; i <= numero && i <13; i++)
             {
                 n = n * i;
             }
