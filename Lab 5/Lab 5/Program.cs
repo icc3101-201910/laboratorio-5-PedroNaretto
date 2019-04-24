@@ -12,6 +12,7 @@ namespace Lab_5
         {
             while (true)
             {
+                Console.WriteLine("hola");
                 int n;
                 Console.WriteLine("-------------------Menu-------------------");
                 Console.WriteLine("Ingrese un numero");
